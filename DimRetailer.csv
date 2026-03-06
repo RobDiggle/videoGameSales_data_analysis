@@ -1,0 +1,501 @@
+RetailerKey,RetailerCode,RetailerName,ChannelType,Country,Region,ContractTier,LaunchDate,AccountManager
+1,R1000,Retailer_0,Physical Store,France,Central,Standard,2019-06-27,Kim
+2,R1001,Retailer_1,Physical Store,Germany,South,Standard,2021-07-15,Nguyen
+3,R1002,Retailer_2,Online,France,North,Standard,2019-09-24,Kim
+4,R1003,Retailer_3,Online,Australia,South,Preferred,2020-06-08,Nguyen
+5,R1004,Retailer_4,Marketplace,Japan,East,Preferred,2023-07-11,Smith
+6,R1005,Retailer_5,Physical Store,France,South,Premium,2021-02-20,Smith
+7,R1006,Retailer_6,Online,Canada,South,Preferred,2022-04-23,Nguyen
+8,R1007,Retailer_7,Marketplace,Canada,South,Premium,2023-03-18,Nguyen
+9,R1008,Retailer_8,Physical Store,Japan,West,Premium,2022-12-15,Kim
+10,R1009,Retailer_9,Marketplace,Australia,East,Premium,2020-11-09,Nguyen
+11,R1010,Retailer_10,Online,UK,South,Premium,2021-10-09,Garcia
+12,R1011,Retailer_11,Online,Australia,South,Premium,2023-03-05,Smith
+13,R1012,Retailer_12,Physical Store,USA,South,Standard,2020-09-16,Smith
+14,R1013,Retailer_13,Marketplace,USA,North,Preferred,2020-12-12,Rossi
+15,R1014,Retailer_14,Physical Store,USA,West,Standard,2022-02-02,Nguyen
+16,R1015,Retailer_15,Online,Japan,North,Premium,2020-01-15,Patel
+17,R1016,Retailer_16,Online,Canada,West,Preferred,2020-06-09,Patel
+18,R1017,Retailer_17,Marketplace,Germany,South,Standard,2019-10-27,Nguyen
+19,R1018,Retailer_18,Marketplace,Canada,East,Standard,2019-08-03,Garcia
+20,R1019,Retailer_19,Marketplace,Germany,Central,Premium,2018-05-10,Patel
+21,R1020,Retailer_20,Physical Store,Germany,Central,Standard,2019-02-28,Rossi
+22,R1021,Retailer_21,Marketplace,Canada,South,Standard,2020-07-16,Nguyen
+23,R1022,Retailer_22,Marketplace,Japan,North,Standard,2018-05-05,Garcia
+24,R1023,Retailer_23,Online,Australia,East,Standard,2023-01-04,Garcia
+25,R1024,Retailer_24,Online,Germany,West,Standard,2019-01-29,Kim
+26,R1025,Retailer_25,Marketplace,UK,South,Premium,2019-02-24,Garcia
+27,R1026,Retailer_26,Marketplace,Canada,East,Premium,2019-06-06,Patel
+28,R1027,Retailer_27,Online,Canada,East,Standard,2022-06-07,Patel
+29,R1028,Retailer_28,Marketplace,USA,West,Premium,2020-02-07,Nguyen
+30,R1029,Retailer_29,Physical Store,Australia,East,Premium,2023-08-12,Nguyen
+31,R1030,Retailer_30,Physical Store,USA,North,Preferred,2022-11-19,Garcia
+32,R1031,Retailer_31,Physical Store,Canada,North,Standard,2023-09-11,Rossi
+33,R1032,Retailer_32,Marketplace,Canada,North,Premium,2020-03-05,Smith
+34,R1033,Retailer_33,Online,Germany,East,Premium,2018-02-16,Kim
+35,R1034,Retailer_34,Marketplace,Australia,North,Standard,2019-03-07,Smith
+36,R1035,Retailer_35,Marketplace,France,West,Preferred,2020-04-28,Garcia
+37,R1036,Retailer_36,Online,UK,East,Standard,2019-07-21,Garcia
+38,R1037,Retailer_37,Online,Germany,Central,Preferred,2021-01-18,Smith
+39,R1038,Retailer_38,Online,Canada,East,Standard,2019-01-05,Kim
+40,R1039,Retailer_39,Physical Store,Germany,West,Standard,2020-05-23,Smith
+41,R1040,Retailer_40,Marketplace,UK,Central,Standard,2017-02-27,Nguyen
+42,R1041,Retailer_41,Online,Canada,East,Standard,2022-12-28,Patel
+43,R1042,Retailer_42,Marketplace,UK,North,Preferred,2018-06-03,Rossi
+44,R1043,Retailer_43,Physical Store,France,South,Preferred,2020-01-29,Nguyen
+45,R1044,Retailer_44,Physical Store,Germany,South,Premium,2017-07-06,Patel
+46,R1045,Retailer_45,Online,Japan,North,Standard,2017-08-12,Rossi
+47,R1046,Retailer_46,Online,Germany,South,Preferred,2023-03-17,Rossi
+48,R1047,Retailer_47,Marketplace,USA,South,Preferred,2020-04-11,Rossi
+49,R1048,Retailer_48,Online,Australia,North,Preferred,2018-06-02,Garcia
+50,R1049,Retailer_49,Marketplace,Australia,North,Standard,2022-07-04,Rossi
+51,R1050,Retailer_50,Online,USA,East,Premium,2018-02-25,Kim
+52,R1051,Retailer_51,Marketplace,Canada,East,Preferred,2017-02-20,Smith
+53,R1052,Retailer_52,Marketplace,Australia,North,Standard,2023-06-10,Kim
+54,R1053,Retailer_53,Marketplace,UK,West,Preferred,2020-03-10,Smith
+55,R1054,Retailer_54,Marketplace,Australia,South,Preferred,2022-04-07,Nguyen
+56,R1055,Retailer_55,Physical Store,Australia,East,Premium,2022-05-15,Nguyen
+57,R1056,Retailer_56,Marketplace,USA,South,Preferred,2021-12-10,Smith
+58,R1057,Retailer_57,Online,Canada,Central,Preferred,2020-10-27,Kim
+59,R1058,Retailer_58,Physical Store,France,North,Standard,2019-01-26,Smith
+60,R1059,Retailer_59,Physical Store,Australia,West,Standard,2017-07-30,Rossi
+61,R1060,Retailer_60,Marketplace,Japan,Central,Premium,2019-11-01,Garcia
+62,R1061,Retailer_61,Physical Store,Australia,Central,Standard,2022-05-11,Nguyen
+63,R1062,Retailer_62,Marketplace,France,Central,Standard,2018-04-13,Garcia
+64,R1063,Retailer_63,Online,USA,North,Premium,2017-09-25,Rossi
+65,R1064,Retailer_64,Marketplace,France,East,Preferred,2021-06-30,Rossi
+66,R1065,Retailer_65,Physical Store,USA,North,Premium,2022-07-08,Nguyen
+67,R1066,Retailer_66,Online,UK,East,Standard,2017-10-31,Nguyen
+68,R1067,Retailer_67,Marketplace,USA,Central,Premium,2023-06-22,Rossi
+69,R1068,Retailer_68,Online,UK,Central,Preferred,2017-08-08,Patel
+70,R1069,Retailer_69,Online,UK,West,Premium,2018-09-14,Garcia
+71,R1070,Retailer_70,Physical Store,USA,East,Standard,2018-09-04,Garcia
+72,R1071,Retailer_71,Online,Japan,Central,Standard,2023-04-25,Patel
+73,R1072,Retailer_72,Physical Store,Germany,South,Premium,2020-05-29,Kim
+74,R1073,Retailer_73,Online,USA,West,Preferred,2017-12-15,Garcia
+75,R1074,Retailer_74,Marketplace,Australia,North,Premium,2019-10-14,Smith
+76,R1075,Retailer_75,Online,Japan,West,Preferred,2018-05-01,Rossi
+77,R1076,Retailer_76,Marketplace,Japan,South,Preferred,2023-04-05,Rossi
+78,R1077,Retailer_77,Marketplace,Australia,East,Premium,2021-09-01,Patel
+79,R1078,Retailer_78,Online,Germany,North,Preferred,2023-10-20,Garcia
+80,R1079,Retailer_79,Marketplace,Japan,North,Standard,2023-09-08,Kim
+81,R1080,Retailer_80,Online,UK,East,Premium,2019-07-14,Garcia
+82,R1081,Retailer_81,Online,Germany,West,Preferred,2022-11-11,Rossi
+83,R1082,Retailer_82,Marketplace,Canada,Central,Standard,2021-04-08,Nguyen
+84,R1083,Retailer_83,Marketplace,Australia,West,Premium,2022-01-20,Smith
+85,R1084,Retailer_84,Physical Store,Germany,South,Standard,2021-12-19,Patel
+86,R1085,Retailer_85,Marketplace,USA,Central,Standard,2020-05-02,Nguyen
+87,R1086,Retailer_86,Physical Store,Germany,West,Standard,2023-08-08,Kim
+88,R1087,Retailer_87,Marketplace,UK,East,Preferred,2021-10-23,Nguyen
+89,R1088,Retailer_88,Online,USA,South,Premium,2020-06-04,Nguyen
+90,R1089,Retailer_89,Marketplace,France,South,Premium,2023-05-19,Kim
+91,R1090,Retailer_90,Online,Australia,South,Preferred,2017-09-04,Nguyen
+92,R1091,Retailer_91,Online,Australia,Central,Premium,2023-11-03,Patel
+93,R1092,Retailer_92,Online,Germany,North,Standard,2018-02-11,Rossi
+94,R1093,Retailer_93,Physical Store,Japan,Central,Premium,2019-05-02,Garcia
+95,R1094,Retailer_94,Marketplace,USA,West,Preferred,2019-05-15,Nguyen
+96,R1095,Retailer_95,Online,France,North,Standard,2019-12-20,Patel
+97,R1096,Retailer_96,Online,USA,West,Preferred,2017-11-29,Garcia
+98,R1097,Retailer_97,Physical Store,Australia,North,Standard,2018-10-06,Garcia
+99,R1098,Retailer_98,Marketplace,USA,Central,Standard,2019-09-10,Nguyen
+100,R1099,Retailer_99,Marketplace,France,South,Premium,2018-12-13,Patel
+101,R1100,Retailer_100,Physical Store,Japan,East,Standard,2023-03-11,Rossi
+102,R1101,Retailer_101,Physical Store,Germany,South,Preferred,2017-11-04,Nguyen
+103,R1102,Retailer_102,Marketplace,UK,Central,Premium,2018-10-04,Kim
+104,R1103,Retailer_103,Physical Store,USA,North,Preferred,2017-01-11,Garcia
+105,R1104,Retailer_104,Marketplace,UK,South,Standard,2021-08-01,Nguyen
+106,R1105,Retailer_105,Marketplace,Australia,Central,Preferred,2022-01-20,Garcia
+107,R1106,Retailer_106,Online,Germany,West,Preferred,2023-08-30,Patel
+108,R1107,Retailer_107,Online,Canada,East,Standard,2022-04-09,Smith
+109,R1108,Retailer_108,Marketplace,Germany,South,Premium,2020-04-07,Nguyen
+110,R1109,Retailer_109,Marketplace,USA,North,Preferred,2017-05-14,Rossi
+111,R1110,Retailer_110,Marketplace,Japan,West,Standard,2019-08-07,Nguyen
+112,R1111,Retailer_111,Marketplace,Germany,Central,Premium,2020-03-26,Garcia
+113,R1112,Retailer_112,Marketplace,USA,East,Premium,2020-03-04,Patel
+114,R1113,Retailer_113,Marketplace,USA,North,Premium,2022-02-03,Kim
+115,R1114,Retailer_114,Physical Store,UK,Central,Preferred,2017-10-19,Rossi
+116,R1115,Retailer_115,Marketplace,Germany,Central,Preferred,2019-08-15,Patel
+117,R1116,Retailer_116,Physical Store,USA,South,Preferred,2019-12-20,Nguyen
+118,R1117,Retailer_117,Physical Store,UK,South,Premium,2023-08-13,Kim
+119,R1118,Retailer_118,Marketplace,France,North,Preferred,2019-03-22,Patel
+120,R1119,Retailer_119,Marketplace,Canada,Central,Standard,2021-10-08,Smith
+121,R1120,Retailer_120,Physical Store,UK,South,Preferred,2018-04-16,Rossi
+122,R1121,Retailer_121,Physical Store,UK,East,Preferred,2023-02-09,Garcia
+123,R1122,Retailer_122,Marketplace,USA,East,Premium,2019-07-10,Patel
+124,R1123,Retailer_123,Marketplace,Australia,Central,Preferred,2018-09-03,Patel
+125,R1124,Retailer_124,Physical Store,Australia,South,Standard,2019-12-25,Smith
+126,R1125,Retailer_125,Physical Store,Japan,North,Premium,2018-08-06,Nguyen
+127,R1126,Retailer_126,Physical Store,Australia,North,Standard,2017-10-20,Rossi
+128,R1127,Retailer_127,Online,UK,North,Premium,2017-09-02,Rossi
+129,R1128,Retailer_128,Physical Store,Japan,East,Premium,2018-11-11,Garcia
+130,R1129,Retailer_129,Online,USA,South,Preferred,2020-06-13,Patel
+131,R1130,Retailer_130,Marketplace,Germany,South,Standard,2023-09-04,Kim
+132,R1131,Retailer_131,Marketplace,Canada,East,Premium,2023-05-21,Patel
+133,R1132,Retailer_132,Physical Store,Canada,North,Preferred,2020-03-28,Garcia
+134,R1133,Retailer_133,Marketplace,UK,North,Premium,2021-12-04,Patel
+135,R1134,Retailer_134,Marketplace,UK,Central,Premium,2018-05-25,Smith
+136,R1135,Retailer_135,Marketplace,Japan,West,Premium,2022-04-04,Patel
+137,R1136,Retailer_136,Marketplace,USA,South,Premium,2020-05-30,Patel
+138,R1137,Retailer_137,Online,France,South,Premium,2021-07-07,Kim
+139,R1138,Retailer_138,Online,UK,South,Premium,2020-01-21,Smith
+140,R1139,Retailer_139,Physical Store,France,West,Preferred,2022-08-12,Smith
+141,R1140,Retailer_140,Physical Store,France,Central,Premium,2023-01-21,Patel
+142,R1141,Retailer_141,Physical Store,Australia,West,Standard,2022-07-16,Rossi
+143,R1142,Retailer_142,Marketplace,USA,North,Preferred,2021-11-29,Kim
+144,R1143,Retailer_143,Marketplace,Canada,North,Standard,2017-11-26,Patel
+145,R1144,Retailer_144,Online,Canada,South,Premium,2023-09-16,Patel
+146,R1145,Retailer_145,Online,France,East,Standard,2017-06-13,Garcia
+147,R1146,Retailer_146,Physical Store,Canada,South,Premium,2021-11-05,Garcia
+148,R1147,Retailer_147,Online,USA,East,Premium,2020-08-13,Rossi
+149,R1148,Retailer_148,Online,Australia,West,Preferred,2023-10-09,Kim
+150,R1149,Retailer_149,Online,USA,North,Preferred,2019-10-23,Nguyen
+151,R1150,Retailer_150,Online,UK,East,Premium,2017-04-16,Garcia
+152,R1151,Retailer_151,Online,France,West,Preferred,2018-01-10,Nguyen
+153,R1152,Retailer_152,Physical Store,USA,North,Standard,2019-07-27,Smith
+154,R1153,Retailer_153,Physical Store,Canada,East,Preferred,2023-06-15,Garcia
+155,R1154,Retailer_154,Online,Germany,South,Preferred,2023-08-02,Garcia
+156,R1155,Retailer_155,Physical Store,USA,South,Standard,2017-03-26,Kim
+157,R1156,Retailer_156,Marketplace,France,South,Preferred,2020-01-09,Rossi
+158,R1157,Retailer_157,Online,Australia,West,Premium,2023-06-19,Nguyen
+159,R1158,Retailer_158,Marketplace,Canada,South,Standard,2017-06-14,Garcia
+160,R1159,Retailer_159,Physical Store,Australia,Central,Premium,2018-12-19,Garcia
+161,R1160,Retailer_160,Physical Store,France,North,Standard,2022-04-12,Kim
+162,R1161,Retailer_161,Marketplace,Canada,West,Premium,2022-10-27,Kim
+163,R1162,Retailer_162,Physical Store,UK,South,Premium,2021-12-17,Rossi
+164,R1163,Retailer_163,Online,Canada,North,Preferred,2020-02-14,Nguyen
+165,R1164,Retailer_164,Marketplace,UK,East,Premium,2019-01-14,Smith
+166,R1165,Retailer_165,Online,Australia,South,Preferred,2023-07-26,Rossi
+167,R1166,Retailer_166,Marketplace,Australia,North,Standard,2021-11-21,Smith
+168,R1167,Retailer_167,Physical Store,France,Central,Premium,2022-07-08,Patel
+169,R1168,Retailer_168,Marketplace,UK,East,Premium,2018-01-09,Garcia
+170,R1169,Retailer_169,Marketplace,Australia,Central,Standard,2022-04-10,Nguyen
+171,R1170,Retailer_170,Online,UK,North,Standard,2020-11-26,Rossi
+172,R1171,Retailer_171,Physical Store,Australia,Central,Premium,2021-07-31,Garcia
+173,R1172,Retailer_172,Online,Canada,North,Standard,2020-09-27,Nguyen
+174,R1173,Retailer_173,Physical Store,USA,North,Preferred,2020-08-08,Nguyen
+175,R1174,Retailer_174,Online,Germany,Central,Standard,2018-03-05,Nguyen
+176,R1175,Retailer_175,Marketplace,Canada,North,Standard,2018-10-21,Garcia
+177,R1176,Retailer_176,Online,Japan,South,Premium,2020-09-12,Rossi
+178,R1177,Retailer_177,Physical Store,USA,North,Preferred,2021-08-14,Kim
+179,R1178,Retailer_178,Physical Store,Japan,West,Standard,2022-07-23,Garcia
+180,R1179,Retailer_179,Marketplace,Australia,North,Preferred,2020-03-26,Nguyen
+181,R1180,Retailer_180,Physical Store,Germany,West,Preferred,2021-06-29,Rossi
+182,R1181,Retailer_181,Online,Germany,North,Preferred,2023-03-04,Patel
+183,R1182,Retailer_182,Marketplace,Australia,North,Premium,2017-05-31,Smith
+184,R1183,Retailer_183,Physical Store,Australia,Central,Standard,2022-02-06,Nguyen
+185,R1184,Retailer_184,Physical Store,UK,South,Premium,2017-12-27,Patel
+186,R1185,Retailer_185,Online,Australia,South,Standard,2020-07-12,Kim
+187,R1186,Retailer_186,Online,France,East,Standard,2019-10-31,Nguyen
+188,R1187,Retailer_187,Marketplace,Australia,Central,Premium,2020-08-17,Patel
+189,R1188,Retailer_188,Physical Store,France,Central,Preferred,2018-04-20,Nguyen
+190,R1189,Retailer_189,Online,Australia,South,Preferred,2021-07-14,Garcia
+191,R1190,Retailer_190,Marketplace,UK,Central,Standard,2022-10-09,Rossi
+192,R1191,Retailer_191,Physical Store,France,South,Premium,2017-01-05,Patel
+193,R1192,Retailer_192,Physical Store,USA,Central,Preferred,2023-02-01,Rossi
+194,R1193,Retailer_193,Marketplace,France,North,Preferred,2022-03-08,Garcia
+195,R1194,Retailer_194,Marketplace,Canada,South,Standard,2021-08-20,Garcia
+196,R1195,Retailer_195,Online,UK,South,Standard,2017-08-11,Rossi
+197,R1196,Retailer_196,Physical Store,Japan,West,Premium,2019-02-08,Patel
+198,R1197,Retailer_197,Physical Store,France,Central,Standard,2022-10-25,Rossi
+199,R1198,Retailer_198,Physical Store,Canada,Central,Preferred,2021-01-21,Rossi
+200,R1199,Retailer_199,Marketplace,Canada,South,Preferred,2022-08-04,Smith
+201,R1200,Retailer_200,Online,Canada,North,Preferred,2021-12-16,Patel
+202,R1201,Retailer_201,Physical Store,Australia,North,Preferred,2017-07-31,Smith
+203,R1202,Retailer_202,Marketplace,Canada,North,Premium,2019-04-14,Nguyen
+204,R1203,Retailer_203,Physical Store,Australia,Central,Premium,2019-12-30,Rossi
+205,R1204,Retailer_204,Online,Japan,West,Standard,2023-02-28,Nguyen
+206,R1205,Retailer_205,Physical Store,UK,South,Standard,2018-06-21,Patel
+207,R1206,Retailer_206,Online,Germany,East,Standard,2020-03-25,Rossi
+208,R1207,Retailer_207,Online,Australia,West,Premium,2021-11-30,Nguyen
+209,R1208,Retailer_208,Physical Store,Canada,East,Preferred,2022-06-09,Kim
+210,R1209,Retailer_209,Physical Store,Canada,West,Standard,2018-05-13,Garcia
+211,R1210,Retailer_210,Online,USA,North,Preferred,2017-04-29,Rossi
+212,R1211,Retailer_211,Marketplace,Canada,Central,Standard,2023-10-30,Garcia
+213,R1212,Retailer_212,Online,UK,East,Standard,2019-09-08,Smith
+214,R1213,Retailer_213,Physical Store,France,West,Standard,2018-10-11,Nguyen
+215,R1214,Retailer_214,Physical Store,France,Central,Standard,2020-06-26,Smith
+216,R1215,Retailer_215,Marketplace,Canada,East,Standard,2023-03-07,Rossi
+217,R1216,Retailer_216,Online,USA,South,Preferred,2017-02-26,Garcia
+218,R1217,Retailer_217,Online,Australia,West,Standard,2023-03-13,Garcia
+219,R1218,Retailer_218,Online,UK,South,Preferred,2021-07-30,Nguyen
+220,R1219,Retailer_219,Physical Store,USA,North,Premium,2018-01-17,Rossi
+221,R1220,Retailer_220,Online,Australia,South,Standard,2019-07-10,Kim
+222,R1221,Retailer_221,Marketplace,UK,South,Preferred,2018-04-10,Kim
+223,R1222,Retailer_222,Physical Store,Canada,West,Premium,2022-03-06,Nguyen
+224,R1223,Retailer_223,Physical Store,France,North,Premium,2018-04-27,Rossi
+225,R1224,Retailer_224,Online,UK,South,Premium,2018-09-23,Nguyen
+226,R1225,Retailer_225,Marketplace,Canada,Central,Preferred,2022-08-04,Rossi
+227,R1226,Retailer_226,Physical Store,Japan,East,Standard,2020-04-10,Smith
+228,R1227,Retailer_227,Physical Store,Germany,South,Standard,2022-09-16,Nguyen
+229,R1228,Retailer_228,Online,UK,North,Preferred,2020-01-25,Rossi
+230,R1229,Retailer_229,Online,Germany,South,Standard,2021-08-29,Kim
+231,R1230,Retailer_230,Marketplace,UK,East,Preferred,2022-05-31,Rossi
+232,R1231,Retailer_231,Online,Germany,North,Standard,2022-04-19,Rossi
+233,R1232,Retailer_232,Marketplace,Japan,West,Premium,2019-09-26,Nguyen
+234,R1233,Retailer_233,Physical Store,France,North,Standard,2022-02-14,Smith
+235,R1234,Retailer_234,Marketplace,Australia,West,Preferred,2023-03-08,Smith
+236,R1235,Retailer_235,Marketplace,Germany,North,Preferred,2018-08-16,Smith
+237,R1236,Retailer_236,Marketplace,Japan,East,Premium,2021-04-21,Smith
+238,R1237,Retailer_237,Physical Store,Germany,East,Preferred,2019-02-20,Patel
+239,R1238,Retailer_238,Online,France,North,Standard,2023-09-22,Nguyen
+240,R1239,Retailer_239,Physical Store,Germany,South,Standard,2022-09-13,Garcia
+241,R1240,Retailer_240,Online,Japan,East,Premium,2018-07-14,Nguyen
+242,R1241,Retailer_241,Marketplace,Canada,West,Preferred,2017-10-13,Patel
+243,R1242,Retailer_242,Marketplace,Japan,West,Premium,2020-02-06,Smith
+244,R1243,Retailer_243,Marketplace,USA,Central,Standard,2021-08-27,Patel
+245,R1244,Retailer_244,Marketplace,France,West,Premium,2020-10-24,Kim
+246,R1245,Retailer_245,Marketplace,Canada,Central,Preferred,2022-09-11,Kim
+247,R1246,Retailer_246,Online,USA,North,Premium,2019-12-31,Nguyen
+248,R1247,Retailer_247,Online,France,North,Preferred,2017-01-11,Nguyen
+249,R1248,Retailer_248,Marketplace,Canada,North,Preferred,2020-03-04,Garcia
+250,R1249,Retailer_249,Physical Store,Germany,South,Standard,2020-05-07,Garcia
+251,R1250,Retailer_250,Physical Store,Canada,South,Standard,2023-08-02,Kim
+252,R1251,Retailer_251,Marketplace,Japan,Central,Standard,2023-07-04,Smith
+253,R1252,Retailer_252,Online,USA,West,Preferred,2022-06-29,Patel
+254,R1253,Retailer_253,Physical Store,Germany,West,Premium,2018-09-01,Garcia
+255,R1254,Retailer_254,Physical Store,Japan,North,Preferred,2022-01-04,Rossi
+256,R1255,Retailer_255,Physical Store,France,East,Standard,2023-01-16,Garcia
+257,R1256,Retailer_256,Marketplace,Canada,South,Standard,2022-06-07,Smith
+258,R1257,Retailer_257,Physical Store,Japan,South,Premium,2020-11-14,Smith
+259,R1258,Retailer_258,Physical Store,Germany,North,Standard,2020-09-23,Nguyen
+260,R1259,Retailer_259,Physical Store,USA,South,Standard,2023-03-11,Patel
+261,R1260,Retailer_260,Physical Store,USA,North,Standard,2023-02-04,Smith
+262,R1261,Retailer_261,Online,Canada,Central,Premium,2021-03-26,Garcia
+263,R1262,Retailer_262,Marketplace,Japan,West,Preferred,2022-02-09,Garcia
+264,R1263,Retailer_263,Marketplace,Germany,East,Standard,2020-08-11,Kim
+265,R1264,Retailer_264,Online,UK,West,Premium,2019-02-12,Smith
+266,R1265,Retailer_265,Online,France,West,Standard,2019-09-06,Rossi
+267,R1266,Retailer_266,Marketplace,France,Central,Premium,2023-06-01,Nguyen
+268,R1267,Retailer_267,Physical Store,Germany,South,Standard,2021-04-18,Patel
+269,R1268,Retailer_268,Physical Store,UK,East,Premium,2019-08-15,Rossi
+270,R1269,Retailer_269,Marketplace,USA,South,Standard,2021-08-10,Nguyen
+271,R1270,Retailer_270,Physical Store,Canada,West,Preferred,2017-06-28,Garcia
+272,R1271,Retailer_271,Online,Australia,North,Standard,2020-07-27,Rossi
+273,R1272,Retailer_272,Physical Store,Australia,West,Premium,2022-04-22,Nguyen
+274,R1273,Retailer_273,Physical Store,Canada,South,Standard,2021-04-11,Garcia
+275,R1274,Retailer_274,Physical Store,Germany,West,Preferred,2021-05-01,Garcia
+276,R1275,Retailer_275,Marketplace,UK,North,Standard,2018-09-16,Garcia
+277,R1276,Retailer_276,Online,UK,Central,Premium,2022-07-22,Garcia
+278,R1277,Retailer_277,Physical Store,France,South,Premium,2017-06-01,Garcia
+279,R1278,Retailer_278,Marketplace,USA,West,Preferred,2018-06-02,Kim
+280,R1279,Retailer_279,Physical Store,Japan,South,Premium,2022-08-20,Rossi
+281,R1280,Retailer_280,Online,UK,Central,Standard,2023-08-15,Nguyen
+282,R1281,Retailer_281,Physical Store,Canada,West,Standard,2020-09-21,Kim
+283,R1282,Retailer_282,Online,Japan,West,Standard,2018-02-16,Kim
+284,R1283,Retailer_283,Physical Store,Australia,South,Premium,2021-12-09,Smith
+285,R1284,Retailer_284,Online,Japan,South,Standard,2018-02-13,Smith
+286,R1285,Retailer_285,Physical Store,USA,North,Standard,2022-11-25,Smith
+287,R1286,Retailer_286,Online,Canada,Central,Standard,2022-02-15,Patel
+288,R1287,Retailer_287,Physical Store,USA,North,Preferred,2017-03-04,Smith
+289,R1288,Retailer_288,Physical Store,Japan,West,Premium,2018-08-14,Nguyen
+290,R1289,Retailer_289,Marketplace,Germany,South,Premium,2021-08-07,Kim
+291,R1290,Retailer_290,Marketplace,UK,West,Premium,2018-09-25,Nguyen
+292,R1291,Retailer_291,Online,Canada,West,Preferred,2017-11-03,Rossi
+293,R1292,Retailer_292,Physical Store,Germany,East,Premium,2022-04-08,Smith
+294,R1293,Retailer_293,Online,Japan,East,Preferred,2019-12-22,Patel
+295,R1294,Retailer_294,Marketplace,UK,West,Preferred,2020-10-18,Rossi
+296,R1295,Retailer_295,Online,France,South,Premium,2021-06-17,Patel
+297,R1296,Retailer_296,Online,Germany,West,Standard,2017-11-25,Rossi
+298,R1297,Retailer_297,Marketplace,Germany,East,Standard,2020-09-07,Kim
+299,R1298,Retailer_298,Physical Store,Japan,South,Premium,2022-12-26,Nguyen
+300,R1299,Retailer_299,Online,Australia,West,Premium,2021-04-06,Garcia
+301,R1300,Retailer_300,Marketplace,Japan,Central,Preferred,2020-07-21,Nguyen
+302,R1301,Retailer_301,Physical Store,Germany,Central,Premium,2022-06-22,Smith
+303,R1302,Retailer_302,Marketplace,UK,West,Preferred,2023-01-26,Garcia
+304,R1303,Retailer_303,Online,Australia,South,Premium,2017-05-28,Patel
+305,R1304,Retailer_304,Physical Store,Japan,West,Standard,2017-10-08,Kim
+306,R1305,Retailer_305,Physical Store,Canada,West,Standard,2019-08-20,Kim
+307,R1306,Retailer_306,Marketplace,Japan,East,Premium,2020-03-23,Patel
+308,R1307,Retailer_307,Marketplace,Germany,Central,Preferred,2019-07-21,Smith
+309,R1308,Retailer_308,Marketplace,Germany,East,Standard,2018-01-06,Patel
+310,R1309,Retailer_309,Physical Store,France,East,Preferred,2021-11-13,Rossi
+311,R1310,Retailer_310,Physical Store,Japan,West,Premium,2018-02-08,Smith
+312,R1311,Retailer_311,Online,Germany,East,Premium,2018-02-16,Garcia
+313,R1312,Retailer_312,Physical Store,Canada,Central,Standard,2021-12-23,Patel
+314,R1313,Retailer_313,Online,USA,East,Premium,2018-11-13,Smith
+315,R1314,Retailer_314,Marketplace,Australia,Central,Standard,2020-05-11,Garcia
+316,R1315,Retailer_315,Marketplace,USA,East,Preferred,2017-04-29,Patel
+317,R1316,Retailer_316,Physical Store,Australia,Central,Standard,2017-07-08,Kim
+318,R1317,Retailer_317,Marketplace,Canada,East,Standard,2020-08-21,Patel
+319,R1318,Retailer_318,Marketplace,Japan,East,Preferred,2017-08-18,Nguyen
+320,R1319,Retailer_319,Physical Store,France,South,Standard,2020-04-16,Patel
+321,R1320,Retailer_320,Online,Germany,Central,Standard,2021-01-08,Nguyen
+322,R1321,Retailer_321,Physical Store,Germany,Central,Premium,2021-03-16,Garcia
+323,R1322,Retailer_322,Online,Germany,Central,Preferred,2021-10-31,Patel
+324,R1323,Retailer_323,Physical Store,Japan,North,Standard,2018-08-20,Garcia
+325,R1324,Retailer_324,Physical Store,Australia,East,Preferred,2019-09-28,Garcia
+326,R1325,Retailer_325,Marketplace,Canada,Central,Preferred,2022-12-16,Smith
+327,R1326,Retailer_326,Physical Store,Germany,North,Standard,2021-08-15,Garcia
+328,R1327,Retailer_327,Physical Store,USA,South,Premium,2023-05-08,Garcia
+329,R1328,Retailer_328,Online,Germany,Central,Preferred,2019-01-08,Patel
+330,R1329,Retailer_329,Marketplace,Japan,Central,Standard,2018-11-28,Patel
+331,R1330,Retailer_330,Online,Canada,North,Preferred,2018-12-19,Kim
+332,R1331,Retailer_331,Online,France,East,Premium,2017-11-20,Smith
+333,R1332,Retailer_332,Marketplace,Canada,South,Premium,2023-11-02,Garcia
+334,R1333,Retailer_333,Marketplace,USA,Central,Premium,2021-04-16,Smith
+335,R1334,Retailer_334,Marketplace,Germany,East,Standard,2019-09-14,Nguyen
+336,R1335,Retailer_335,Physical Store,Germany,South,Standard,2022-08-01,Garcia
+337,R1336,Retailer_336,Marketplace,UK,West,Premium,2023-07-17,Smith
+338,R1337,Retailer_337,Marketplace,Australia,West,Standard,2018-08-10,Kim
+339,R1338,Retailer_338,Marketplace,USA,South,Premium,2019-08-10,Kim
+340,R1339,Retailer_339,Online,UK,North,Standard,2022-03-04,Garcia
+341,R1340,Retailer_340,Online,Canada,South,Premium,2019-11-07,Nguyen
+342,R1341,Retailer_341,Physical Store,France,South,Preferred,2022-02-26,Kim
+343,R1342,Retailer_342,Online,Australia,North,Premium,2019-11-12,Kim
+344,R1343,Retailer_343,Physical Store,USA,North,Premium,2017-02-08,Nguyen
+345,R1344,Retailer_344,Online,Germany,East,Standard,2022-03-21,Smith
+346,R1345,Retailer_345,Marketplace,Canada,East,Standard,2020-03-24,Kim
+347,R1346,Retailer_346,Online,USA,North,Standard,2023-02-17,Patel
+348,R1347,Retailer_347,Physical Store,Germany,West,Standard,2018-10-10,Rossi
+349,R1348,Retailer_348,Online,Australia,West,Standard,2017-10-30,Rossi
+350,R1349,Retailer_349,Marketplace,Germany,South,Standard,2021-12-15,Kim
+351,R1350,Retailer_350,Physical Store,France,Central,Preferred,2020-11-16,Smith
+352,R1351,Retailer_351,Marketplace,Canada,South,Premium,2023-08-04,Smith
+353,R1352,Retailer_352,Marketplace,Japan,South,Premium,2020-05-10,Garcia
+354,R1353,Retailer_353,Physical Store,Germany,Central,Premium,2021-10-04,Patel
+355,R1354,Retailer_354,Marketplace,France,North,Preferred,2019-10-22,Smith
+356,R1355,Retailer_355,Marketplace,Japan,West,Premium,2022-02-15,Nguyen
+357,R1356,Retailer_356,Online,Canada,South,Preferred,2020-05-22,Patel
+358,R1357,Retailer_357,Marketplace,Australia,Central,Preferred,2019-03-27,Rossi
+359,R1358,Retailer_358,Marketplace,Australia,East,Preferred,2021-04-25,Patel
+360,R1359,Retailer_359,Marketplace,Canada,South,Premium,2022-06-03,Nguyen
+361,R1360,Retailer_360,Marketplace,Canada,West,Preferred,2018-03-13,Kim
+362,R1361,Retailer_361,Physical Store,USA,North,Premium,2019-08-30,Nguyen
+363,R1362,Retailer_362,Online,France,South,Premium,2021-04-12,Nguyen
+364,R1363,Retailer_363,Marketplace,France,South,Standard,2023-06-01,Kim
+365,R1364,Retailer_364,Marketplace,Canada,Central,Standard,2021-01-10,Kim
+366,R1365,Retailer_365,Physical Store,UK,East,Preferred,2023-06-13,Kim
+367,R1366,Retailer_366,Marketplace,UK,East,Preferred,2020-04-26,Kim
+368,R1367,Retailer_367,Physical Store,Japan,North,Premium,2020-04-24,Kim
+369,R1368,Retailer_368,Online,Japan,West,Preferred,2017-03-31,Nguyen
+370,R1369,Retailer_369,Online,UK,North,Preferred,2021-06-10,Garcia
+371,R1370,Retailer_370,Marketplace,Canada,South,Premium,2020-01-30,Garcia
+372,R1371,Retailer_371,Marketplace,Canada,South,Preferred,2017-02-03,Smith
+373,R1372,Retailer_372,Marketplace,Japan,East,Preferred,2023-05-08,Garcia
+374,R1373,Retailer_373,Physical Store,Germany,West,Premium,2017-07-20,Rossi
+375,R1374,Retailer_374,Marketplace,Canada,Central,Premium,2023-10-20,Garcia
+376,R1375,Retailer_375,Marketplace,UK,West,Standard,2022-07-28,Nguyen
+377,R1376,Retailer_376,Online,France,South,Premium,2020-03-18,Kim
+378,R1377,Retailer_377,Marketplace,Canada,Central,Standard,2019-08-01,Kim
+379,R1378,Retailer_378,Online,Canada,West,Preferred,2023-10-23,Nguyen
+380,R1379,Retailer_379,Marketplace,Germany,West,Premium,2020-12-14,Rossi
+381,R1380,Retailer_380,Online,Japan,Central,Premium,2019-06-17,Garcia
+382,R1381,Retailer_381,Marketplace,Canada,South,Premium,2019-02-18,Nguyen
+383,R1382,Retailer_382,Online,Australia,West,Preferred,2019-10-24,Smith
+384,R1383,Retailer_383,Physical Store,USA,Central,Standard,2018-07-15,Kim
+385,R1384,Retailer_384,Online,UK,South,Preferred,2018-02-02,Patel
+386,R1385,Retailer_385,Online,Australia,Central,Preferred,2017-06-11,Smith
+387,R1386,Retailer_386,Online,Japan,Central,Premium,2020-06-19,Rossi
+388,R1387,Retailer_387,Marketplace,France,West,Standard,2021-12-11,Smith
+389,R1388,Retailer_388,Marketplace,USA,South,Preferred,2017-05-17,Nguyen
+390,R1389,Retailer_389,Marketplace,Australia,West,Premium,2023-07-02,Garcia
+391,R1390,Retailer_390,Physical Store,USA,North,Preferred,2021-02-03,Kim
+392,R1391,Retailer_391,Physical Store,UK,North,Preferred,2018-06-23,Rossi
+393,R1392,Retailer_392,Online,Japan,South,Premium,2018-01-05,Rossi
+394,R1393,Retailer_393,Physical Store,Canada,Central,Premium,2020-04-23,Patel
+395,R1394,Retailer_394,Online,France,West,Standard,2020-08-31,Smith
+396,R1395,Retailer_395,Online,Japan,West,Preferred,2021-08-29,Patel
+397,R1396,Retailer_396,Online,USA,South,Premium,2018-12-21,Garcia
+398,R1397,Retailer_397,Physical Store,Australia,South,Premium,2019-04-03,Garcia
+399,R1398,Retailer_398,Marketplace,UK,North,Standard,2018-06-26,Patel
+400,R1399,Retailer_399,Physical Store,UK,East,Standard,2023-01-19,Kim
+401,R1400,Retailer_400,Online,Japan,South,Premium,2021-02-07,Garcia
+402,R1401,Retailer_401,Online,Canada,East,Standard,2022-12-15,Patel
+403,R1402,Retailer_402,Physical Store,Australia,South,Premium,2022-08-18,Smith
+404,R1403,Retailer_403,Online,Canada,Central,Preferred,2020-01-22,Patel
+405,R1404,Retailer_404,Online,Canada,Central,Standard,2018-11-05,Patel
+406,R1405,Retailer_405,Physical Store,Australia,North,Preferred,2019-11-19,Nguyen
+407,R1406,Retailer_406,Physical Store,USA,North,Preferred,2022-05-28,Garcia
+408,R1407,Retailer_407,Physical Store,Japan,East,Preferred,2020-04-23,Kim
+409,R1408,Retailer_408,Online,Japan,South,Premium,2020-10-19,Kim
+410,R1409,Retailer_409,Online,Germany,West,Preferred,2018-04-17,Nguyen
+411,R1410,Retailer_410,Marketplace,Japan,North,Preferred,2022-04-03,Rossi
+412,R1411,Retailer_411,Marketplace,UK,West,Preferred,2017-11-05,Kim
+413,R1412,Retailer_412,Physical Store,USA,West,Premium,2018-07-31,Patel
+414,R1413,Retailer_413,Marketplace,Australia,South,Preferred,2019-07-14,Nguyen
+415,R1414,Retailer_414,Online,Japan,East,Preferred,2021-06-16,Smith
+416,R1415,Retailer_415,Marketplace,USA,South,Standard,2023-04-02,Garcia
+417,R1416,Retailer_416,Online,Japan,North,Premium,2021-02-07,Garcia
+418,R1417,Retailer_417,Physical Store,Australia,West,Preferred,2018-01-05,Garcia
+419,R1418,Retailer_418,Physical Store,France,South,Standard,2021-06-05,Patel
+420,R1419,Retailer_419,Online,Australia,South,Premium,2017-02-27,Smith
+421,R1420,Retailer_420,Marketplace,Australia,South,Premium,2019-12-20,Nguyen
+422,R1421,Retailer_421,Physical Store,Australia,North,Premium,2023-01-07,Nguyen
+423,R1422,Retailer_422,Physical Store,Japan,East,Premium,2018-05-22,Garcia
+424,R1423,Retailer_423,Marketplace,Germany,South,Premium,2022-02-06,Smith
+425,R1424,Retailer_424,Marketplace,Australia,North,Premium,2021-02-18,Smith
+426,R1425,Retailer_425,Online,UK,West,Preferred,2019-12-10,Smith
+427,R1426,Retailer_426,Marketplace,UK,Central,Preferred,2023-07-23,Kim
+428,R1427,Retailer_427,Marketplace,USA,North,Preferred,2021-04-10,Kim
+429,R1428,Retailer_428,Marketplace,Germany,Central,Preferred,2021-03-02,Garcia
+430,R1429,Retailer_429,Online,USA,South,Standard,2018-03-20,Smith
+431,R1430,Retailer_430,Online,UK,South,Preferred,2019-08-16,Rossi
+432,R1431,Retailer_431,Physical Store,Canada,North,Premium,2022-04-16,Smith
+433,R1432,Retailer_432,Online,UK,Central,Preferred,2017-04-13,Nguyen
+434,R1433,Retailer_433,Physical Store,France,South,Preferred,2023-04-19,Nguyen
+435,R1434,Retailer_434,Marketplace,Australia,West,Premium,2020-09-05,Garcia
+436,R1435,Retailer_435,Physical Store,Canada,East,Preferred,2023-11-04,Rossi
+437,R1436,Retailer_436,Physical Store,UK,East,Preferred,2019-06-26,Smith
+438,R1437,Retailer_437,Marketplace,Japan,South,Preferred,2017-09-16,Rossi
+439,R1438,Retailer_438,Physical Store,Japan,Central,Standard,2022-03-17,Garcia
+440,R1439,Retailer_439,Online,USA,South,Preferred,2020-05-22,Nguyen
+441,R1440,Retailer_440,Online,Canada,Central,Premium,2021-07-31,Nguyen
+442,R1441,Retailer_441,Online,USA,West,Premium,2018-04-23,Kim
+443,R1442,Retailer_442,Online,Australia,Central,Preferred,2018-07-27,Garcia
+444,R1443,Retailer_443,Physical Store,Australia,South,Preferred,2017-07-05,Garcia
+445,R1444,Retailer_444,Physical Store,France,West,Preferred,2017-06-02,Smith
+446,R1445,Retailer_445,Marketplace,Germany,North,Premium,2020-05-31,Smith
+447,R1446,Retailer_446,Physical Store,USA,East,Premium,2022-07-11,Kim
+448,R1447,Retailer_447,Physical Store,Australia,South,Standard,2018-04-21,Patel
+449,R1448,Retailer_448,Physical Store,USA,South,Standard,2018-02-03,Rossi
+450,R1449,Retailer_449,Marketplace,Australia,South,Standard,2019-08-20,Patel
+451,R1450,Retailer_450,Online,UK,West,Premium,2023-01-11,Patel
+452,R1451,Retailer_451,Physical Store,USA,North,Standard,2018-07-10,Garcia
+453,R1452,Retailer_452,Marketplace,UK,Central,Preferred,2021-05-11,Rossi
+454,R1453,Retailer_453,Marketplace,USA,North,Preferred,2022-02-02,Garcia
+455,R1454,Retailer_454,Marketplace,Germany,West,Premium,2021-02-28,Rossi
+456,R1455,Retailer_455,Online,France,South,Standard,2023-01-22,Nguyen
+457,R1456,Retailer_456,Physical Store,Japan,East,Preferred,2021-09-13,Garcia
+458,R1457,Retailer_457,Marketplace,Japan,South,Premium,2023-08-03,Garcia
+459,R1458,Retailer_458,Online,Japan,Central,Standard,2018-09-25,Garcia
+460,R1459,Retailer_459,Marketplace,UK,East,Preferred,2021-08-27,Kim
+461,R1460,Retailer_460,Marketplace,Canada,South,Standard,2018-02-10,Garcia
+462,R1461,Retailer_461,Marketplace,Australia,East,Premium,2022-06-28,Smith
+463,R1462,Retailer_462,Marketplace,Japan,North,Standard,2021-07-30,Smith
+464,R1463,Retailer_463,Marketplace,Germany,West,Premium,2020-02-20,Rossi
+465,R1464,Retailer_464,Online,Japan,South,Standard,2017-05-15,Nguyen
+466,R1465,Retailer_465,Physical Store,USA,Central,Preferred,2021-02-26,Kim
+467,R1466,Retailer_466,Physical Store,UK,North,Premium,2019-06-09,Rossi
+468,R1467,Retailer_467,Physical Store,Canada,South,Premium,2021-12-22,Smith
+469,R1468,Retailer_468,Physical Store,USA,North,Premium,2021-12-27,Kim
+470,R1469,Retailer_469,Online,Canada,Central,Standard,2019-08-26,Kim
+471,R1470,Retailer_470,Online,USA,South,Standard,2021-01-25,Nguyen
+472,R1471,Retailer_471,Online,USA,Central,Preferred,2018-02-11,Kim
+473,R1472,Retailer_472,Marketplace,France,East,Premium,2021-02-13,Garcia
+474,R1473,Retailer_473,Marketplace,France,Central,Premium,2023-02-09,Kim
+475,R1474,Retailer_474,Marketplace,Australia,East,Standard,2021-01-09,Nguyen
+476,R1475,Retailer_475,Physical Store,UK,South,Standard,2017-09-06,Rossi
+477,R1476,Retailer_476,Marketplace,Germany,East,Preferred,2021-06-19,Nguyen
+478,R1477,Retailer_477,Physical Store,Germany,South,Preferred,2020-02-05,Nguyen
+479,R1478,Retailer_478,Marketplace,Germany,South,Standard,2019-02-17,Smith
+480,R1479,Retailer_479,Physical Store,USA,West,Premium,2018-05-16,Garcia
+481,R1480,Retailer_480,Marketplace,France,South,Preferred,2022-02-06,Smith
+482,R1481,Retailer_481,Marketplace,UK,East,Standard,2018-01-11,Rossi
+483,R1482,Retailer_482,Online,USA,West,Standard,2019-05-19,Patel
+484,R1483,Retailer_483,Marketplace,Canada,West,Premium,2023-09-12,Rossi
+485,R1484,Retailer_484,Marketplace,France,South,Standard,2017-03-29,Garcia
+486,R1485,Retailer_485,Online,France,Central,Standard,2017-07-27,Kim
+487,R1486,Retailer_486,Physical Store,Japan,Central,Preferred,2020-09-28,Nguyen
+488,R1487,Retailer_487,Online,Japan,West,Standard,2019-09-25,Patel
+489,R1488,Retailer_488,Online,UK,South,Standard,2018-05-31,Garcia
+490,R1489,Retailer_489,Physical Store,Canada,Central,Preferred,2023-05-02,Smith
+491,R1490,Retailer_490,Marketplace,UK,South,Premium,2019-04-21,Nguyen
+492,R1491,Retailer_491,Physical Store,UK,South,Premium,2017-10-09,Rossi
+493,R1492,Retailer_492,Marketplace,USA,West,Preferred,2023-03-21,Smith
+494,R1493,Retailer_493,Marketplace,Australia,West,Preferred,2019-04-29,Garcia
+495,R1494,Retailer_494,Physical Store,UK,North,Premium,2023-07-30,Garcia
+496,R1495,Retailer_495,Online,Japan,Central,Premium,2019-06-04,Rossi
+497,R1496,Retailer_496,Physical Store,Australia,Central,Premium,2019-08-13,Patel
+498,R1497,Retailer_497,Marketplace,USA,Central,Premium,2020-09-07,Rossi
+499,R1498,Retailer_498,Physical Store,Australia,East,Premium,2018-08-28,Kim
+500,R1499,Retailer_499,Physical Store,Germany,South,Preferred,2023-09-08,Smith
