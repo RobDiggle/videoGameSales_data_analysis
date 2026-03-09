@@ -99,3 +99,24 @@ SELECT country, ChannelType, COUNT(ChannelType)
 FROM DimRetailer
 GROUP BY country, ChannelType
 ORDER BY COUNT(ChannelType) desc
+
+SELECT * FROM FactSales
+LIMIT 10;
+
+-- Case expression
+-- Used to apply conditional logic to transform 
+-- or categorize data in the query output.
+SELECT OrderSource,
+    CASE    
+        WHEN LOWER(OrderSource) LIKE '%ebsite%' THEN 'Online Sale'
+        WHEN LOWER(OrderSource) LIKE '%etail%' THEN 'Retail Sale'
+        WHEN LOWER(OrderSource) LIKE '%obile%' THEN 'Mobile Sale'
+    ELSE 'Other'
+END AS order_source_cleaned
+FROM factsales
+
+SELECT DISTINCT(OrderSource)
+FROM factsales
+
+
+
